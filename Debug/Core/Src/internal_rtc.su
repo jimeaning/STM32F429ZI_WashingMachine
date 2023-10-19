@@ -1,0 +1,5 @@
+../Core/Src/internal_rtc.c:19:15:bin2dec	24	static
+../Core/Src/internal_rtc.c:30:15:dec2bin	24	static
+../Core/Src/internal_rtc.c:41:6:get_rtc	88	static
+../Core/Src/internal_rtc.c:72:6:set_rtc	40	static
+../Core/Src/internal_rtc.c:103:6:set_time_button_ui	64	static

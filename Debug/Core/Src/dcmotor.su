@@ -1,0 +1,6 @@
+../Core/Src/dcmotor.c:38:6:DCMOTOR_Init	8	static
+../Core/Src/dcmotor.c:109:6:dcmotor_normal	48	static
+../Core/Src/dcmotor.c:151:6:dcmotor_speedy	48	static
+../Core/Src/dcmotor.c:195:6:forward_backward_dcmotor	8	static
+../Core/Src/dcmotor.c:213:6:led_on_off	8	static
+../Core/Src/dcmotor.c:242:6:lcd_print	8	static
