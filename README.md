@@ -43,7 +43,7 @@ Intel AI SW 아카데미에서 한 달 동안 배운 내용을 바탕으로 세�
 
 ## 💻 기술
 
-STM32 MCU, C언어, STM32CubeIDE
+STM32 MCU(Cortex-M4), C언어, STM32CubeIDE
 
 <br>
 
