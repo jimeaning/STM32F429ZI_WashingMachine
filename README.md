@@ -70,6 +70,18 @@ STM32 MCU(Cortex-M4), C언어, STM32CubeIDE
 
 <br>
 
+## 🎥 시현 영상
+**세탁 기능 (Normal Mode)**
+
+[![](https://img.youtube.com/vi/9Zwso84e6Cg/0.jpg)](https://youtu.be/9Zwso84e6Cg?t=0s)
+
+**헹굼 기능 (Speedy Mode)**
+
+[![](https://img.youtube.com/vi/ksGNlfL3WWM/0.jpg)](https://youtu.be/ksGNlfL3WWM?t=0s)
+
+<br>
+
+
 ## 😆 프로젝트 후기
 1. 문제점 및 해결 방안 <br>
 	a. 타이머가 끝날 때까지 함수가 실행되어야 하는데 한 번만 실행되고 나옴<br>
